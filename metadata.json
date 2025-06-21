@@ -1,0 +1,6 @@
+{
+  "name": "AI节点编辑器",
+  "description": "A web application for visually building and managing AI workflows using a node-based interface. Users can create, connect, and configure nodes on a canvas, manage project files, and organize different workflows in tabs.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
